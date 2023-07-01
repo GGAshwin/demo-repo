@@ -6,7 +6,7 @@ some desc!!
 changed things
 
 <ul>
-<li>git remote add <name> <reponame></li>
+<li>git remote add *name* *reponame*</li>
 <li></li>
 <li></li>
 </ul>
