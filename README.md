@@ -13,3 +13,4 @@ changed things
 
 ## Local dev
 1. Open index.html
+2. Have fun
