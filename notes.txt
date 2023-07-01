@@ -1,0 +1,10 @@
+git remote <name> <repoName> #used to connect to a remote repository
+
+Reminder!!
+Everytime MASTER is mentioned anywhere substitue it with MAIN
+
+git checkout #used to switch branches
+
+git checkout -b <name> #used to create new branches and switch to it
+
+git branch #used to view all the branches
