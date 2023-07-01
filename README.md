@@ -7,6 +7,6 @@ changed things
 
 <ul>
 <li>git remote add *name* *reponame*</li>
-<li></li>
+<li>Everytime master is mentioned anywhere substitue it with main</li>
 <li></li>
 </ul>
