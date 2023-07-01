@@ -8,3 +8,5 @@ git checkout #used to switch branches
 git checkout -b <name> #used to create new branches and switch to it
 
 git branch #used to view all the branches
+
+git branch -d #used to delete an already merged branch
