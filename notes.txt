@@ -14,3 +14,7 @@ git branch -d #used to delete an already merged branch
 git pull <remote> <branch> #used to pull from the remote branch if the branch is not already set yet
 
 git commit -am "message" #used to add and commit at the same time ONLY WORKS FOR MODIFIED FILES
+
+git reset #used to undo the STAGED files
+
+git reset HEAD~1 #used to reset to the last but one commit
