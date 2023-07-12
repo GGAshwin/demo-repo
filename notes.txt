@@ -18,3 +18,5 @@ git commit -am "message" #used to add and commit at the same time ONLY WORKS FOR
 git reset #used to undo the STAGED files
 
 git reset HEAD~1 #used to reset to the last but one commit
+
+git merge --abort #used to stop or revert the merging process
